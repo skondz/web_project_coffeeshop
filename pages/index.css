@@ -150,8 +150,6 @@
   max-width: 438px;
   position: relative;
   left: 80px;
-
-  border: solid 1px red;
 }
 .recipes__videos {
   margin: 80px auto 215px;
@@ -170,7 +168,6 @@
   font-size: 20px;
   line-height: 30px;
   color: #ffffff;
-  border: solid 1px red;
   flex-grow: 1;
   max-width: 480px;
 }
