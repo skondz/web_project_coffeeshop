@@ -73,7 +73,7 @@
   left: 80px;
   max-width: 683px;
   margin: 28px 0 0 0;
-  font-family: "Noto Serif" "Times New Roman", Times, serif;
+  font-family: "Noto Serif", "Times New Roman", Times, serif;
   font-size: 20px;
   line-height: 30px;
 }
@@ -161,6 +161,7 @@
   column-gap: 40px;
 }
 .recipes__iframe {
+  border: 0;
 }
 .recipes__video-caption {
   font-family: "Inter", "Arial", sans-serif;
