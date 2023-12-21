@@ -211,7 +211,7 @@
 }
 .form__input {
   height: 60px;
-  max-width: 385;
+  max-width: 385px;
   margin: 0 0 32px 0;
   border-radius: 4%;
   font-family: "Inter", "Arial", sans-serif;
@@ -223,7 +223,7 @@
 }
 .form__button {
   height: 60px;
-  max-width: 385;
+  max-width: 385px;
   background-color: #2f80ed;
   color: #ffffff;
   border-radius: 4%;
