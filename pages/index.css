@@ -202,14 +202,14 @@
   flex-direction: column;
   border: 0;
 }
-.form__label {
+.fieldset__label {
   margin: 0 0 8px 0;
   font-family: "Inter", "Arial", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
 }
-.form__input {
+.fieldset__input {
   height: 60px;
   max-width: 385px;
   margin: 0 0 32px 0;
@@ -221,7 +221,7 @@
   color: #838383;
   border: 1px solid #838383;
 }
-.form__button {
+.fieldset__button {
   height: 60px;
   max-width: 385px;
   background-color: #2f80ed;
@@ -234,12 +234,12 @@
   font-size: 16px;
   line-height: 20px;
 }
-.form__label-check {
+.fieldset__label-check {
   display: flex;
   justify-content: center;
   margin: 0;
 }
-.form__checkbox {
+.fieldset__checkbox {
   height: 20px;
   width: 20px;
   margin-right: 12px;
